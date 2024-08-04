@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiya 👋
 
 <!--
 **const-sambird/const-sambird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Sam, a computer science master's candidate at the [University of Oklahoma](https://cs.ou.edu).
+
+- 🔭 My research so far has been about [collective communication operations](https://github.com/const-sambird/collectives) in distributed systems
+- 🌱 I'm excited to start research into matrix multiplication in distributed systems as the final project for my degree
+- 🧭 I'm currently refreshing my knowledge on statistics and machine learning
+- 🎓 I'll be graduating in December 2024
+- 🧑‍💻 I'm looking for work after graduation! I have the right to work in the United States, United Kingdom, and European Union, and I'm willing to relocate
+- 🛜 I have a website with more information at [sambird.org](https://sambird.org)
+- 📫 You can email me at `sam AT sambird DOT org`
