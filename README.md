@@ -21,7 +21,7 @@ I'm Sam, a computer science master's candidate at the [University of Oklahoma](h
 - 🔭 My research so far has been about [collective communication operations](https://github.com/const-sambird/collectives) in distributed systems
 - 🌱 I'm excited to start research into matrix multiplication in distributed systems as the final project for my degree
 - 📝 In the next few months, I'll be taking classes on computational learning theory (machine learning) and data mining
-- 🎓 I'll be graduating in December 2024
-- 🧑‍💻 **I'm looking for work after graduation!** I have the right to work in the United States, United Kingdom, and European Union, and I'm willing to relocate
+- 🎓 I'll be graduating with a master's degree in December 2024
+- 🧑‍💻 I'll be starting a PhD in Computer Science next year, researching databases
 - 🛜 I have a website with more information at [sambird.org](https://sambird.org)
 - 📫 You can email me at `sam AT sambird DOT org`
