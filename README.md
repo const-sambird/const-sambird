@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sam, a computer science master's candidate at the [University of Oklahoma](https://cs.ou.edu).
+I'm Sam, a computer science doctoral student at the [University of Oklahoma](https://cs.ou.edu).
 
-- 📚 I have a bachelor's degree with academic distinction in computer science with a minor in mathematics
-- 🔭 My research so far has been about [collective communication operations](https://github.com/const-sambird/collectives) in distributed systems
-- 🌱 I'm excited to start research into matrix multiplication in distributed systems as the final project for my degree
-- 📝 In the next few months, I'll be taking classes on computational learning theory (machine learning) and data mining
-- 🎓 I'll be graduating with a master's degree in December 2024
-- 🧑‍💻 I'll be starting a PhD in Computer Science next year, researching databases
+- 🧑‍💻 My dissertation topic is 'data management using machine learning and quantum computers for large-scale database applications'
+- 📚 I have a master's degree in computer science from OU
+- 🔭 My research so far has been about [collective communication operations](https://github.com/const-sambird/collectives) and [matrix multiplication](https://github.com/const-sambird/summa) in distributed systems
+- 📝 In the next few months, I'll be taking classes on computer architecture and linear optimisation
 - 🛜 I have a website with more information at [sambird.org](https://sambird.org)
 - 📫 You can email me at `sam AT sambird DOT org`
