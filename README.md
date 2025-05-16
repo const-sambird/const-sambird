@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I'm Sam, a computer science doctoral student at the [University of Oklahoma](https://cs.ou.edu).
 
 - 🧑‍💻 My dissertation topic is 'data management using machine learning and quantum computers for large-scale database applications'
+  - 🔭 My work in this area can be found in the [qDINA](https://github.com/const-sambird/dina) and the [TPC-H benchmark utility](https://github.com/const-sambird/tpch_divergent_benchmarks) repositories
 - 📚 I have a master's degree in computer science from OU
-- 🔭 My research so far has been about [collective communication operations](https://github.com/const-sambird/collectives) and [matrix multiplication](https://github.com/const-sambird/summa) in distributed systems
-- 📝 In the next few months, I'll be taking classes on computer architecture and linear optimisation
+- 📝 I've previously looked into [collective communication operations](https://github.com/const-sambird/collectives) and [matrix multiplication](https://github.com/const-sambird/summa) in distributed systems
 - 🛜 I have a website with more information at [sambird.org](https://sambird.org)
 - 📫 You can email me at `sam AT sambird DOT org`
