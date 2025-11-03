@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sam, a computer science doctoral student at the [University of Oklahoma](https://cs.ou.edu).
+I'm Sam, a computer science doctoral candidate at the [University of Oklahoma](https://cs.ou.edu).
 
 - 🧑‍💻 My dissertation topic is 'data management using machine learning and quantum computers for large-scale database applications'
-  - 🔭 My work in this area can be found in the [qDINA](https://github.com/const-sambird/dina) and the [TPC-H benchmark utility](https://github.com/const-sambird/tpch_divergent_benchmarks) repositories
+  - 🔭 My work in this area can be found in the [qDINA](https://github.com/const-sambird/dina) and the [corresponding benchmark](https://github.com/const-sambird/qdina-bench) repositories
 - 📚 I have a master's degree in computer science from OU
 - 📝 I've previously looked into [collective communication operations](https://github.com/const-sambird/collectives) and [matrix multiplication](https://github.com/const-sambird/summa) in distributed systems
 - 🛜 I have a website with more information at [sambird.org](https://sambird.org)
